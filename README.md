@@ -13,6 +13,7 @@ Video Coming soon...
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
     - [Important localhost note](#important-localhost-note)
+- [Resources](#resources)
 - [Thank you!](#thank-you)
 
 Video coming soon...
@@ -90,6 +91,12 @@ You'll be brought to the UI after running `yarn dev` which has exactly 2 buttons
 ### Important localhost note
 
 If you use metamask with a local network, everytime you shut down your node, you'll need to reset your account. Settings -> Advanced -> Reset account. Don't do this with a metamask you have real funds in.
+
+# Resources
+
+- [Web3Modal Example](https://github.com/ChangoMan/web3modal-example)
+- [Class based web3Modal](https://github.com/Web3Modal/web3modal/tree/master/example)
+- [Scaffold-ETH also uses web3modal](https://github.com/scaffold-eth/scaffold-eth)
 
 # Thank you!
 
